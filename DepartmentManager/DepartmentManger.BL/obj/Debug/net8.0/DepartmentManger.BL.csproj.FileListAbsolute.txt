@@ -1,0 +1,15 @@
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\bin\Debug\net8.0\DepartmentManger.BL.deps.json
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\bin\Debug\net8.0\DepartmentManger.BL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\bin\Debug\net8.0\DepartmentManger.BL.pdb
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\bin\Debug\net8.0\DepartmentManger.DAL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\bin\Debug\net8.0\DepartmentManger.DAL.pdb
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.csproj.AssemblyReference.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.AssemblyInfoInputs.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.AssemblyInfo.cs
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.csproj.CoreCompileInputs.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\Departme.9256BDD4.Up2Date
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\refint\DepartmentManger.BL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\DepartmentManger.BL.pdb
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.BL\obj\Debug\net8.0\ref\DepartmentManger.BL.dll

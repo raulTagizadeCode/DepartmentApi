@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|solutionrelative:departmentmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|solutionrelative:departmentmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\externalservices\\implentations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\externalservices\\implentations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\services\\abstractions\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\services\\abstractions\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanager.api\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|solutionrelative:departmentmanager.api\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\services\\implementations\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\services\\implementations\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\externalservices\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\externalservices\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanager.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|solutionrelative:departmentmanager.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanager.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|solutionrelative:departmentmanager.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\departmentmanger.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\departmentmanger.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\dtos\\employeedtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\dtos\\employeedtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\profiles\\departmentprofiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\profiles\\departmentprofiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\dtos\\departmentdtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\dtos\\departmentdtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Migrations\\20241222083656_appUSerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DepartmentManger.DAL\\Migrations\\20241222083656_appUSerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.bl\\profiles\\employeeprofiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56189044-DEB1-4F1A-A8A8-1B5C6FA67DD3}|DepartmentManger.BL\\DepartmentManger.BL.csproj|solutionrelative:departmentmanger.bl\\profiles\\employeeprofiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\repository\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\repository\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanager.api\\departmentmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F781AC6E-1505-465D-A6BE-26C3D3F87DFB}|DepartmentManager.API\\DepartmentManager.API.csproj|solutionrelative:departmentmanager.api\\departmentmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\enum\\employeposition\\employeeposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\enum\\employeposition\\employeeposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\departmentmanger.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\departmentmanger.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|c:\\users\\rault\\source\\repos\\departmentmanager\\departmentmanger.dal\\migrations\\20241221075415_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F97A0B2-E277-4D9B-BFC3-28B6664EF68C}|DepartmentManger.DAL\\DepartmentManger.DAL.csproj|solutionrelative:departmentmanger.dal\\migrations\\20241221075415_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:45:44.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:45:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserLoginDto.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserLoginDto.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserLoginDto.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:43:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Services\\Implementations\\AppUserService.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\Services\\Implementations\\AppUserService.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Services\\Implementations\\AppUserService.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\Services\\Implementations\\AppUserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBQAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:50:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\Services\\Abstractions\\IAppUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:50:28.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:41:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "DepartmentManager.API\\Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "DepartmentManager.API\\Controllers\\AppUsersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:39:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserCreateDto.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserCreateDto.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserCreateDto.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\DTOs\\AppUSerDTOs\\AppUserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:26:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241222083656_appUSerTable.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Migrations\\20241222083656_appUSerTable.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Migrations\\20241222083656_appUSerTable.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Migrations\\20241222083656_appUSerTable.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Migrations\\20241222083656_appUSerTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:36:56.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:34:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:21:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Profiles\\EmployeeProfiles\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\Profiles\\EmployeeProfiles\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Profiles\\EmployeeProfiles\\EmployeeProfile.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\Profiles\\EmployeeProfiles\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:03:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Profiles\\DepartmentProfiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\Profiles\\DepartmentProfiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\Profiles\\DepartmentProfiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\Profiles\\DepartmentProfiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:41:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:46:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "DepartmentManager.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "DepartmentManager.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:45:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "DepartmentManger.BL\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:45:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentManger.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DepartmentManger.BL.csproj",
+              "RelativeDocumentMoniker": "DepartmentManger.BL\\DepartmentManger.BL.csproj",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.BL\\DepartmentManger.BL.csproj",
+              "RelativeToolTip": "DepartmentManger.BL\\DepartmentManger.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T08:44:47.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DepartmentManager.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DepartmentManager.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwCMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:37:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Repository\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Repository\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Repository\\Concretes\\Repository.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Repository\\Concretes\\Repository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:19:23.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:19:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241221075415_initial.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Migrations\\20241221075415_initial.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Migrations\\20241221075415_initial.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Migrations\\20241221075415_initial.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Migrations\\20241221075415_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:54:15.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DepartmentManager.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\appsettings.json",
+              "RelativeToolTip": "DepartmentManager.API\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T07:41:35.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "DepartmentManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\Program.cs*",
+              "RelativeToolTip": "DepartmentManager.API\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:39:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:32:34.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:32:13.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Contexts\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Contexts\\AppDBContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:28:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeePosition.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Enum\\EmployePosition\\EmployeePosition.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Enum\\EmployePosition\\EmployeePosition.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Enum\\EmployePosition\\EmployeePosition.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Enum\\EmployePosition\\EmployeePosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:25:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\Employee.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:17:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\Department.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:16:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:16:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\Entities\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\Entities\\AuditableEntity.cs",
+              "RelativeToolTip": "DepartmentManger.DAL\\Entities\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:16:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartmentManager.API.csproj",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\DepartmentManager.API.csproj",
+              "RelativeDocumentMoniker": "DepartmentManager.API\\DepartmentManager.API.csproj",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManager.API\\DepartmentManager.API.csproj",
+              "RelativeToolTip": "DepartmentManager.API\\DepartmentManager.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T07:13:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartmentManger.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\DepartmentManger.DAL.csproj",
+              "RelativeDocumentMoniker": "DepartmentManger.DAL\\DepartmentManger.DAL.csproj",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\DepartmentManager\\DepartmentManger.DAL\\DepartmentManger.DAL.csproj",
+              "RelativeToolTip": "DepartmentManger.DAL\\DepartmentManger.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T07:13:20.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

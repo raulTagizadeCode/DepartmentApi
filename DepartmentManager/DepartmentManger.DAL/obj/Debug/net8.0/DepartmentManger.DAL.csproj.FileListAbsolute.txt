@@ -1,0 +1,14 @@
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\bin\Debug\net8.0\DepartmentManger.DAL.deps.json
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\bin\Debug\net8.0\DepartmentManger.DAL.runtimeconfig.json
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\bin\Debug\net8.0\DepartmentManger.DAL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\bin\Debug\net8.0\DepartmentManger.DAL.pdb
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.csproj.AssemblyReference.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.AssemblyInfoInputs.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.AssemblyInfo.cs
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\refint\DepartmentManger.DAL.dll
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.pdb
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\DepartmentManger.DAL.genruntimeconfig.cache
+C:\Users\rault\source\repos\DepartmentManager\DepartmentManger.DAL\obj\Debug\net8.0\ref\DepartmentManger.DAL.dll
